@@ -1,0 +1,113 @@
+.hero-text-1 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.hero-text-2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.hero-text-3 {
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+
+.hero-text-4 {
+    font-size: 2.0rem;
+    font-weight: 700;
+}
+
+.hero-text-5 {
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+
+.hero-color-black {}
+
+.hero-link {
+    font-size: .875rem;
+    padding: 10px;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+
+.hero-link:hover {
+    font-size: .875rem;
+    padding: 10px;
+    color: #21a5b7;
+    font-weight: 600;
+    outline-style: none;
+}
+
+.hero-footer {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 10px;
+}
+
+
+.hero-red-social {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 10px 0px;
+}
+
+.link-red-social {
+    padding: 0px 10px;
+}
+
+.link-red-social>img {
+
+    width: 20px;
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+    .hero-text-1 {
+        font-size: 2.2rem;
+        font-weight: 700;
+    }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .hero-text-1 {
+        font-size: 2.2rem;
+        font-weight: 700;
+    }
+}
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .hero-text-1 {
+        font-size: 2.0rem;
+        font-weight: 700;
+    } 
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .hero-text-1 {
+        font-size: 2.0rem;
+        font-weight: 700;
+    }
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .hero-text-1 {
+        font-size: 3.0rem;
+        font-weight: 700;
+    }
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    .hero-text-1 {
+        font-size: 3.0rem;
+        font-weight: 700;
+    }
+}

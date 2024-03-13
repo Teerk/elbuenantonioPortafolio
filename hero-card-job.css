@@ -1,0 +1,70 @@
+.hero-card-job{
+    border: rgb(211, 209, 209) solid 1px;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 0px;
+}
+
+.card-job-date{
+    padding: 4px;
+    border-left: 1px solid  #9ba1ac;;
+    font-size: 13px;
+    color: #9ba1ac;
+}
+.card-job-title{
+    padding: 4px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #323437;
+}
+.card-job-text{
+    padding: 4px;
+    font-size: 14px;
+    text-align: justify;
+    color: #71747c;
+}
+.card-job-more{
+    padding: 4px;
+    font-size: 14px;
+    text-align: justify;
+}
+
+/* - */
+
+.card-contact-img{
+padding: 0pxs;
+width: 40px;
+height: 40px;
+}
+.hero-contact-job{
+    border: rgb(211, 209, 209) solid 1px;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 0px;
+}
+.card-contact-title{
+    padding: 4px;
+    font-size: 17px;
+    font-weight: 500;
+    min-height: 50px;
+    color: #323437;
+}
+.card-contact-text{
+    padding: 4px;
+    font-size: 14px;
+    text-align: justify;
+    color: #71747c;
+    display: none;
+}
+.card-contact-more{
+    padding: 4px;
+    font-size: 14px;
+    text-align: justify;
+}
+
+
+.hero-start-job{
+    padding: 20px 0px;
+    border-radius: 5px;
+    margin: 20px 0px;
+}
